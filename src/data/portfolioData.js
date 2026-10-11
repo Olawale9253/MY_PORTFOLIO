@@ -12,17 +12,22 @@ export const skills = [
   'React',
   'Node.js',
   'Python',
-  'UI/UX Design',
   'Responsive Design',
   'Java',
   'Django',
   'Spring Boot',
+  'RESTful APIs',
+  'Microservices',
+  'Docker',
+  'Hibernate',
   'Git/GitHub',
   'Flutter',
   'MongoDB',
   'PostgreSQL',
+  'MySQL',
   'Linux',
   'App Development',
+  'AWS',
 ]
 
 export const services = [
@@ -81,6 +86,7 @@ export const projects = [
 
 export const contactItems = [
   {
+    label: 'Email',
     label: 'Email',
     value: 'taofeekolawale159@gmail.com',
     href: 'mailto:taofeekolawale159@gmail.com',
