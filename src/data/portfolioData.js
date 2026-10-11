@@ -75,7 +75,7 @@ export const projects = [
     title: 'UNIFLOW Queue System',
     description: 'An institutional queue management app designed to streamline service operations efficiently.',
     icon: 'fa-solid fa-chart-line',
-    link: 'https://github.com/Olawale9253/UNIFLOW-QUEUE-SYSTEM',
+    link: 'https://uniflow-queue-system-1.onrender.com/',
   },
 ]
 
