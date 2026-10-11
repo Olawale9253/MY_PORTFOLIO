@@ -63,7 +63,7 @@ export const projects = [
     title: 'E-Commerce Website',
     description: 'A complete online shopping experience with product listings, cart flow, and checkout logic.',
     icon: 'fa-solid fa-cart-shopping',
-    link: 'https://github.com/Olawale9253/Ecommerce',
+    link: 'https://shop-co-ecommerce-kappa.vercel.app/',
   },
   {
     title: 'Car Rental System',
