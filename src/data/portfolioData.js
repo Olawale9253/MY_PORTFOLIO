@@ -27,7 +27,7 @@ export const skills = [
   'MySQL',
   'Linux',
   'App Development',
-  'AWS',
+  'Cloud Computing',
 ]
 
 export const services = [
